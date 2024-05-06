@@ -255,6 +255,7 @@ Unfortunately, some of the tools that we will explore during this class do not p
 The included microSD card has been pre-programmed with a custom Raspbian image, dubbed PioT, to include all of the tools that you will need for the appropriate exercises. The login to the customized Raspbian image can be found in the Workbook.
 
 You won’t need to use PioT right away, but it is recommended to assemble the case, apply heat syncs, and insert the microSD card early on.
+
 .
 .
 .
