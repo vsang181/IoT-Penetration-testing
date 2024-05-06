@@ -105,4 +105,18 @@ IoT devices are commonly used for high-trust applications. However, their numero
 - **Personal Privacy Breach**: IoT devices commonly collect and process sensitive personal information. Hacks of internet-connected cameras can allow unauthorized users to view live video streams.
 
 - **Remote Control of Connected Cars**: Cars are increasingly connected to the internet for software updates and other remote-control functionality. A 2015 proof of concept demonstrated that an attacker could remotely gain complete control of a Jeep Cherokee.
+.
+.
+.
+.
+.
+.
+_In progress..._
 
+## Let's Connect
+
+I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
+
+- **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
+
+I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
