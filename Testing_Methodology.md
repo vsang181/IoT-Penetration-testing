@@ -256,14 +256,6 @@ The included microSD card has been pre-programmed with a custom Raspbian image, 
 
 You won’t need to use PioT right away, but it is recommended to assemble the case, apply heat syncs, and insert the microSD card early on.
 
-.
-.
-.
-.
-.
-.
-_In progress..._
-
 ## Let's Connect
 
 I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
